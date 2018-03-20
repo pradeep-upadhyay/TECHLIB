@@ -1,10 +1,13 @@
 # Contents
  
+- Building.Impressive.Presentations.With.Impress.pdf
 - cracking-coding-interview-6th-programming.pdf
 - Deep Learning with Python.pdf
 - kotlin-docs.pdf
 - LearnElasticSearch.pdf
+- Machine Learning-A Probabilistic Perspective.pdf
 - README.md
+- ScalaByExample.pdf
 - 大型网站技术架构-核心原理与案例分析.pdf
 - 数据化决策.pdf
 - BigData/[Hadoop-The.Definitive.Guide]4th_EN.pdf
@@ -17,16 +20,21 @@
 - Design/Clean Architecture A Craftsman's Guide to Software Structure and Design.pdf
 - Design/Clean Code.pdf
 - Design/clean-coder-conduct-professional-programmers.pdf
+- Go/Go in Action.pdf
+- Go/Go语言编程.pdf
+- Go/The Go Programming Language.pdf
 - Java/[Effective Java]EN_ 2nd.pdf
 - Java/Annotations-Java.pdf
 - Java/Architecting Modern Java EE Applications.pdf
 - Java/Core.Java.Volume.I.Fundamentals.10th.Edition.2016.1.pdf
+- Java/Groovy in Action_2ed.pdf
 - Java/Java 8 Lambdas-EN.pdf
 - Java/Java Network Programming.pdf
 - Java/Java Testing with Spock.pdf
 - Java/Java.Concurrency.in.Practice.pdf
 - Java/Java8函数式编程.pdf
 - Java/JAVA网络编程_4th.pdf
+- Java/Making Java Groovy.pdf
 - Java/Spring in Action, 4th Edition.pdf
 - Java/Test-Driven Java Development.pdf
 - Java/深入理解Java虚拟机——JVM高级特性与最佳实践(第2版).pdf
@@ -42,6 +50,7 @@
 - LatexTutorials/short-math-guide/short-math-guide.tex
 - Math/[Linear Algebra]Serge.Lang.pdf
 - Math/Linear Algebra Done Right.pdf
+- Math/Think Stats Probability.pdf
 - Math/程序员的数学/程序员的数学 2 概率统计.pdf
 - Math/程序员的数学/程序员的数学 3 线性代数.pdf
 - Math/程序员的数学/程序员的数学.pdf
