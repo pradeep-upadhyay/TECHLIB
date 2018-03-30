@@ -1,5 +1,4 @@
 import os
-from os.path import isfile, join, exists
 import argparse
 
 parser = argparse.ArgumentParser(description='Parse Input Path')
@@ -13,16 +12,16 @@ def isSkip(path, ignore_keys):
     return False
 
 root_dir = args.path
-keys_ignore = ['.git', '.DS_Store', '.gitignore', 'maintenance-scripts']
+keys_ignore = ['.git', '.DS_Store', '.gitignore', 'maintenance-scripts', '.py', '.pyc', '.java', '.class', '.scala', 'code']
 
-if not exists(root_dir):
+if not os.path.exists(root_dir):
     print('Invailaid working path {}'.format(root_dir))
     os.exit(1)
 
 for root, directories, filenames in os.walk(root_dir):
     for filename in filenames:
-        path_to_print = join(root, filename).replace(root_dir + os.sep, '')
+        path_to_print = os.path.join(root, filename).replace(root_dir + os.sep, '')
         if isSkip(path_to_print, keys_ignore):
             continue
-        print(path_to_print)
+        print("- " + path_to_print)
 

@@ -1,11 +1,10 @@
 # Contents
  
-- Building.Impressive.Presentations.With.Impress.pdf
-- cracking-coding-interview-6th-programming.pdf
+ - cracking-coding-interview-6th-programming.pdf
 - Deep Learning with Python.pdf
-- kotlin-docs.pdf
 - LearnElasticSearch.pdf
 - Machine Learning-A Probabilistic Perspective.pdf
+- Principles-of-Computer-System-Design.pdf
 - README.md
 - ScalaByExample.pdf
 - 大型网站技术架构-核心原理与案例分析.pdf
@@ -15,11 +14,13 @@
 - BigData/Designing Data-Intensive Applications.pdf
 - BigData/Fast Data Processing with Spark2-3rd.pdf
 - BigData/Learning Spark Lightning-Fast Big Data Analysis Orielly Feb 2015.pdf
+- BigData/Spark快速大数据分析.pdf
+- BigData/Spark最佳实践.pdf
+- ComputerArchitecture/Structure and Interpretion on Computer Programs.pdf
 - Design/[Computer Systems：A.Programmer's.Perspective].pdf
 - Design/[设计模式之禅]2nd_ed.pdf
 - Design/Clean Architecture A Craftsman's Guide to Software Structure and Design.pdf
 - Design/Clean Code.pdf
-- Design/clean-coder-conduct-professional-programmers.pdf
 - Go/Go in Action.pdf
 - Go/Go语言编程.pdf
 - Go/The Go Programming Language.pdf
@@ -38,8 +39,9 @@
 - Java/Spring in Action, 4th Edition.pdf
 - Java/Test-Driven Java Development.pdf
 - Java/深入理解Java虚拟机——JVM高级特性与最佳实践(第2版).pdf
-- kotlin_in_action/Kotlin in Action.pdf
-- kotlin_in_action/kotlin-in-action-master.zip
+- Kotlin/Kotlin in Action.pdf
+- Kotlin/kotlin-docs.pdf
+- Kotlin/kotlin-in-action-master.zip
 - LatexTutorials/beamer-tutorial.pdf
 - LatexTutorials/beamer2.pdf
 - LatexTutorials/Charles Batts - Beamer Tutorial.pdf
@@ -48,18 +50,24 @@
 - LatexTutorials/short-math-guide/README
 - LatexTutorials/short-math-guide/short-math-guide.pdf
 - LatexTutorials/short-math-guide/short-math-guide.tex
+- Machine Learning/Apress Mastering Machine Learning with Python in Six Steps 1484228650.pdf
+- Machine Learning/Machine Learning for Hackers Case Studies and Algorithms to Get You Started 9781449303716.pdf
 - Math/[Linear Algebra]Serge.Lang.pdf
 - Math/Linear Algebra Done Right.pdf
 - Math/Think Stats Probability.pdf
 - Math/程序员的数学/程序员的数学 2 概率统计.pdf
 - Math/程序员的数学/程序员的数学 3 线性代数.pdf
 - Math/程序员的数学/程序员的数学.pdf
+- PresentationAndSpeech/Building.Impressive.Presentations.With.Impress.pdf
+- PresentationAndSpeech/Case In Point9 Complete Case Interview Preparation.pdf
+- PresentationAndSpeech/Crucial Conversations.pdf
 - Python/[Think Python].pdf
 - Python/dive-into-python3.pdf
 - Python/Effective Python (2015).pdf
 - Python/Learn Python The Hard Way 3rd Edition V413HAV.pdf
 - Python/Python for Data Analysis.pdf
 - Python/Python for Probability, Statistics, and Machine Learning - 2016.pdf
+- Python/Python数据分析及可视化实例目录.pdf
 - Python/Test-Driven Development with Python_ Obey the Testing.pdf
 - Python/docs-pdf/c-api.pdf
 - Python/docs-pdf/distributing.pdf
@@ -79,7 +87,6 @@
 - Python/docs-pdf/howto-regex.pdf
 - Python/docs-pdf/howto-sockets.pdf
 - Python/docs-pdf/howto-sorting.pdf
-- Python/docs-pdf/howto-unicode.pdf
 - Python/docs-pdf/howto-urllib2.pdf
 - Python/docs-pdf/installing.pdf
 - Python/docs-pdf/library.pdf
@@ -105,7 +112,6 @@
 - Python/PythonDocs/howto-regex.pdf
 - Python/PythonDocs/howto-sockets.pdf
 - Python/PythonDocs/howto-sorting.pdf
-- Python/PythonDocs/howto-unicode.pdf
 - Python/PythonDocs/howto-urllib2.pdf
 - Python/PythonDocs/installing.pdf
 - Python/PythonDocs/library.pdf
@@ -113,8 +119,12 @@
 - Python/PythonDocs/tutorial.pdf
 - Python/PythonDocs/using.pdf
 - Python/PythonDocs/whatsnew.pdf
+- Scala/Programming in Scala 3rd Edition 9780981531687.pdf
+- Scala/scala-in-depth.pdf
+- Scala/ScalaInAction.pdf
 - Shell/[Advanced Bash Shell].pdf
 - Shell/[linux Command Line and Shell Scripting Bible]3rd.pdf
 - Shell/Advanced Bash Shell(中文高清版).pdf
+- Shell/StyleGuideShell.en.pdf
 - Shell/The Linux Command Line.pdf
 - Shell/最牛B的 Linux Shell 命令.pdf
