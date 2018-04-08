@@ -1,6 +1,5 @@
 # Contents
- 
- - cracking-coding-interview-6th-programming.pdf
+- cracking-coding-interview-6th-programming.pdf
 - Deep Learning with Python.pdf
 - LearnElasticSearch.pdf
 - Machine Learning-A Probabilistic Perspective.pdf
@@ -28,6 +27,7 @@
 - Java/Annotations-Java.pdf
 - Java/Architecting Modern Java EE Applications.pdf
 - Java/Core.Java.Volume.I.Fundamentals.10th.Edition.2016.1.pdf
+- Java/EffectiveJava_3rd_EN.pdf
 - Java/Groovy in Action_2ed.pdf
 - Java/Java 8 Lambdas-EN.pdf
 - Java/Java Network Programming.pdf
