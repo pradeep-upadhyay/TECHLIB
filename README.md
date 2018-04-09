@@ -1,4 +1,5 @@
 # Contents
+- Beginning Regular Expressions.pdf
 - cracking-coding-interview-6th-programming.pdf
 - Deep Learning with Python.pdf
 - LearnElasticSearch.pdf
@@ -21,7 +22,9 @@
 - Design/Clean Architecture A Craftsman's Guide to Software Structure and Design.pdf
 - Design/Clean Code.pdf
 - Go/Go in Action.pdf
+- Go/Go Web Programming.pdf
 - Go/Go语言编程.pdf
+- Go/Learning Go programming.pdf
 - Go/The Go Programming Language.pdf
 - Java/[Effective Java]EN_ 2nd.pdf
 - Java/Annotations-Java.pdf
@@ -39,6 +42,7 @@
 - Java/Spring in Action, 4th Edition.pdf
 - Java/Test-Driven Java Development.pdf
 - Java/深入理解Java虚拟机——JVM高级特性与最佳实践(第2版).pdf
+- JavaScript/Learning JavaScript.pdf
 - Kotlin/Kotlin in Action.pdf
 - Kotlin/kotlin-docs.pdf
 - Kotlin/kotlin-in-action-master.zip
