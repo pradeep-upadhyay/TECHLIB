@@ -1,12 +1,9 @@
 # Contents
 - Beginning Regular Expressions.pdf
 - cracking-coding-interview-6th-programming.pdf
-- Deep Learning with Python.pdf
 - LearnElasticSearch.pdf
-- Machine Learning-A Probabilistic Perspective.pdf
 - Principles-of-Computer-System-Design.pdf
 - README.md
-- ScalaByExample.pdf
 - 大型网站技术架构-核心原理与案例分析.pdf
 - 数据化决策.pdf
 - BigData/[Hadoop-The.Definitive.Guide]4th_EN.pdf
@@ -55,7 +52,9 @@
 - LatexTutorials/short-math-guide/short-math-guide.pdf
 - LatexTutorials/short-math-guide/short-math-guide.tex
 - Machine Learning/Apress Mastering Machine Learning with Python in Six Steps 1484228650.pdf
+- Machine Learning/Deep Learning with Python.pdf
 - Machine Learning/Machine Learning for Hackers Case Studies and Algorithms to Get You Started 9781449303716.pdf
+- Machine Learning/Machine Learning-A Probabilistic Perspective.pdf
 - Math/[Linear Algebra]Serge.Lang.pdf
 - Math/Linear Algebra Done Right.pdf
 - Math/Think Stats Probability.pdf
@@ -124,6 +123,7 @@
 - Python/PythonDocs/using.pdf
 - Python/PythonDocs/whatsnew.pdf
 - Scala/Programming in Scala 3rd Edition 9780981531687.pdf
+- Scala/Scala By Example.pdf
 - Scala/scala-in-depth.pdf
 - Scala/ScalaInAction.pdf
 - Shell/[Advanced Bash Shell].pdf
