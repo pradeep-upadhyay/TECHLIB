@@ -1,16 +1,21 @@
 # Contents
 - Beginning Regular Expressions.pdf
 - cracking-coding-interview-6th-programming.pdf
+- Docker-Up and Running.pdf
+- HTML and CSS design and build websites.pdf
 - LearnElasticSearch.pdf
 - Principles-of-Computer-System-Design.pdf
 - README.md
 - 大型网站技术架构-核心原理与案例分析.pdf
 - 数据化决策.pdf
 - BigData/[Hadoop-The.Definitive.Guide]4th_EN.pdf
+- BigData/Advanced-Analytics-with Spark.pdf
 - BigData/Architecting HBase Applications.pdf
 - BigData/Designing Data-Intensive Applications.pdf
 - BigData/Fast Data Processing with Spark2-3rd.pdf
+- BigData/Hadoop-The.Definitive.Guide_4e_EN.pdf
 - BigData/Learning Spark Lightning-Fast Big Data Analysis Orielly Feb 2015.pdf
+- BigData/Practical Statistics for Data Scientists.pdf
 - BigData/Spark快速大数据分析.pdf
 - BigData/Spark最佳实践.pdf
 - ComputerArchitecture/Structure and Interpretion on Computer Programs.pdf
@@ -18,6 +23,13 @@
 - Design/[设计模式之禅]2nd_ed.pdf
 - Design/Clean Architecture A Craftsman's Guide to Software Structure and Design.pdf
 - Design/Clean Code.pdf
+- Design/How To Design Programs_2nd.pdf
+- Design/ModernJavaEEDesignPatterns.pdf
+- Design/Seven Concurrency Models in Seven Weeks.pdf
+- Design/Site.Reliability.Engineering.2016.3.pdf
+- Design/Spring Cloud微服务实战.pdf
+- Design/微服务架构与实践.王磊.pdf
+- Design/微服务设计中文完整版.pdf
 - Go/Go in Action.pdf
 - Go/Go Web Programming.pdf
 - Go/Go语言编程.pdf
@@ -26,18 +38,34 @@
 - Java/[Effective Java]EN_ 2nd.pdf
 - Java/Annotations-Java.pdf
 - Java/Architecting Modern Java EE Applications.pdf
-- Java/Core.Java.Volume.I.Fundamentals.10th.Edition.2016.1.pdf
+- Java/building-microservices-designing-fine-grained-systems.pdf
+- Java/Building.Microservices.Designing.Fine.Grained.Systems.pdf
+- Java/Cloud native Java.pdf
+- Java/Core Java Volume I--Fundamentals_10th.pdf
+- Java/Core Java Volume II--Advanced Features_10th.pdf
 - Java/EffectiveJava_3rd_EN.pdf
 - Java/Groovy in Action_2ed.pdf
 - Java/Java 8 Lambdas-EN.pdf
+- Java/Java 9 Concurrency Cookbook_2nd.pdf
 - Java/Java Network Programming.pdf
 - Java/Java Testing with Spock.pdf
 - Java/Java.Concurrency.in.Practice.pdf
 - Java/Java8函数式编程.pdf
 - Java/JAVA网络编程_4th.pdf
+- Java/Just.Spring.Integration.pdf
+- Java/log4j-users-guide.pdf
 - Java/Making Java Groovy.pdf
+- Java/Mastering Spring Cloud_Build self-healing, microservices-based, distributed systems using Spring Cloud-Packt Publishing(2018).pdf
+- Java/microservices-building-scalable-software.pdf
+- Java/microservices-from-day-one.pdf
+- Java/Pro Spring 5, 5th Edition.pdf
+- Java/Spring Boot实战_CN .pdf
+- Java/Spring Essentials.pdf
 - Java/Spring in Action, 4th Edition.pdf
+- Java/Spring Microservices in Action.pdf
+- Java/SpringInPractice.pdf
 - Java/Test-Driven Java Development.pdf
+- Java/全端Web开发：使用JavaScript与Java.pdf
 - Java/深入理解Java虚拟机——JVM高级特性与最佳实践(第2版).pdf
 - JavaScript/Learning JavaScript.pdf
 - Kotlin/Kotlin in Action.pdf
@@ -70,65 +98,19 @@
 - Python/Learn Python The Hard Way 3rd Edition V413HAV.pdf
 - Python/Python for Data Analysis.pdf
 - Python/Python for Probability, Statistics, and Machine Learning - 2016.pdf
+- Python/python-crash-course.pdf
 - Python/Python数据分析及可视化实例目录.pdf
 - Python/Test-Driven Development with Python_ Obey the Testing.pdf
-- Python/docs-pdf/c-api.pdf
-- Python/docs-pdf/distributing.pdf
-- Python/docs-pdf/extending.pdf
-- Python/docs-pdf/faq.pdf
-- Python/docs-pdf/howto-argparse.pdf
-- Python/docs-pdf/howto-clinic.pdf
-- Python/docs-pdf/howto-cporting.pdf
-- Python/docs-pdf/howto-curses.pdf
-- Python/docs-pdf/howto-descriptor.pdf
-- Python/docs-pdf/howto-functional.pdf
-- Python/docs-pdf/howto-instrumentation.pdf
-- Python/docs-pdf/howto-ipaddress.pdf
-- Python/docs-pdf/howto-logging-cookbook.pdf
-- Python/docs-pdf/howto-logging.pdf
-- Python/docs-pdf/howto-pyporting.pdf
-- Python/docs-pdf/howto-regex.pdf
-- Python/docs-pdf/howto-sockets.pdf
-- Python/docs-pdf/howto-sorting.pdf
-- Python/docs-pdf/howto-urllib2.pdf
-- Python/docs-pdf/installing.pdf
-- Python/docs-pdf/library.pdf
-- Python/docs-pdf/reference.pdf
-- Python/docs-pdf/tutorial.pdf
-- Python/docs-pdf/using.pdf
-- Python/docs-pdf/whatsnew.pdf
-- Python/PythonDocs/c-api.pdf
-- Python/PythonDocs/distributing.pdf
-- Python/PythonDocs/extending.pdf
-- Python/PythonDocs/faq.pdf
-- Python/PythonDocs/howto-argparse.pdf
-- Python/PythonDocs/howto-clinic.pdf
-- Python/PythonDocs/howto-cporting.pdf
-- Python/PythonDocs/howto-curses.pdf
-- Python/PythonDocs/howto-descriptor.pdf
-- Python/PythonDocs/howto-functional.pdf
-- Python/PythonDocs/howto-instrumentation.pdf
-- Python/PythonDocs/howto-ipaddress.pdf
-- Python/PythonDocs/howto-logging-cookbook.pdf
-- Python/PythonDocs/howto-logging.pdf
-- Python/PythonDocs/howto-pyporting.pdf
-- Python/PythonDocs/howto-regex.pdf
-- Python/PythonDocs/howto-sockets.pdf
-- Python/PythonDocs/howto-sorting.pdf
-- Python/PythonDocs/howto-urllib2.pdf
-- Python/PythonDocs/installing.pdf
-- Python/PythonDocs/library.pdf
-- Python/PythonDocs/reference.pdf
-- Python/PythonDocs/tutorial.pdf
-- Python/PythonDocs/using.pdf
-- Python/PythonDocs/whatsnew.pdf
+- Python/The Hacker's Guide To Python.pdf
 - Scala/Programming in Scala 3rd Edition 9780981531687.pdf
 - Scala/Scala By Example.pdf
 - Scala/scala-in-depth.pdf
+- Scala/Scala.for.the.Impatient.2nd.2017.pdf
 - Scala/ScalaInAction.pdf
 - Shell/[Advanced Bash Shell].pdf
 - Shell/[linux Command Line and Shell Scripting Bible]3rd.pdf
 - Shell/Advanced Bash Shell(中文高清版).pdf
+- Shell/Linux.Shell_.Scripting.Cookbook.pdf
 - Shell/StyleGuideShell.en.pdf
 - Shell/The Linux Command Line.pdf
 - Shell/最牛B的 Linux Shell 命令.pdf
