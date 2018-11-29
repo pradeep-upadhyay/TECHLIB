@@ -2,10 +2,12 @@
 - Beginning Regular Expressions.pdf
 - cracking-coding-interview-6th-programming.pdf
 - Docker-Up and Running.pdf
+- Elements of Programming Interviews in Java.pdf
 - HTML and CSS design and build websites.pdf
-- HTML5 and JavaScript Projects Build on your Basic Knowledge of HTML5 and JavaScript to Create Substantial HTML5 Applications, 2nd Edition 9781484238639.pdf
+- HTML5 and JavaScript Projects Build on your Basic Knowledge of HTML5 and JavaScript to Create Substantial HTML5 Applications, 2nd Edition.pdf
 - LearnElasticSearch.pdf
-- Principles-of-Computer-System-Design.pdf
+- Principles of Computer System Design.pdf
+- Programming Interviews Exposed(4th).pdf
 - README.md
 - vmls-slides.pdf
 - 大型网站技术架构-核心原理与案例分析.pdf
