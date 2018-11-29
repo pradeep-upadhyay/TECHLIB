@@ -3,9 +3,11 @@
 - cracking-coding-interview-6th-programming.pdf
 - Docker-Up and Running.pdf
 - HTML and CSS design and build websites.pdf
+- HTML5 and JavaScript Projects Build on your Basic Knowledge of HTML5 and JavaScript to Create Substantial HTML5 Applications, 2nd Edition 9781484238639.pdf
 - LearnElasticSearch.pdf
 - Principles-of-Computer-System-Design.pdf
 - README.md
+- vmls-slides.pdf
 - 大型网站技术架构-核心原理与案例分析.pdf
 - 数据化决策.pdf
 - BigData/[Hadoop-The.Definitive.Guide]4th_EN.pdf
@@ -23,11 +25,14 @@
 - Design/[设计模式之禅]2nd_ed.pdf
 - Design/Clean Architecture A Craftsman's Guide to Software Structure and Design.pdf
 - Design/Clean Code.pdf
+- Design/Design Patterns_ Elements of Reusable Object-Oriented Software.pdf
 - Design/How To Design Programs_2nd.pdf
 - Design/ModernJavaEEDesignPatterns.pdf
 - Design/Seven Concurrency Models in Seven Weeks.pdf
 - Design/Site.Reliability.Engineering.2016.3.pdf
 - Design/Spring Cloud微服务实战.pdf
+- Design/图解Java多线程设计模式.pdf
+- Design/图解设计模式-结城浩.pdf
 - Design/微服务架构与实践.王磊.pdf
 - Design/微服务设计中文完整版.pdf
 - Go/Go in Action.pdf
@@ -79,11 +84,16 @@
 - LatexTutorials/short-math-guide/README
 - LatexTutorials/short-math-guide/short-math-guide.pdf
 - LatexTutorials/short-math-guide/short-math-guide.tex
+- Machine Learning/103exercises.pdf
 - Machine Learning/Apress Mastering Machine Learning with Python in Six Steps 1484228650.pdf
 - Machine Learning/Deep Learning with Python.pdf
+- Machine Learning/Introduction to Applied Linear Algebra Vectors, Matrices, and Least Squares.pdf
 - Machine Learning/Machine Learning for Hackers Case Studies and Algorithms to Get You Started 9781449303716.pdf
 - Machine Learning/Machine Learning-A Probabilistic Perspective.pdf
+- Machine Learning/Machine_Learning_in_Action.pdf
+- Machine Learning/vmls-julia-companion.pdf
 - Math/[Linear Algebra]Serge.Lang.pdf
+- Math/Engineering Mathematics, 8th Edition 9781138673595.pdf
 - Math/Linear Algebra Done Right.pdf
 - Math/Think Stats Probability.pdf
 - Math/程序员的数学/程序员的数学 2 概率统计.pdf
@@ -93,10 +103,17 @@
 - PresentationAndSpeech/Case In Point9 Complete Case Interview Preparation.pdf
 - PresentationAndSpeech/Crucial Conversations.pdf
 - Python/[Think Python].pdf
+- Python/Core Python Programming_2nd.pdf
+- Python/Core.Python.Applications.Programming.3rd.Edition.pdf
+- Python/Data Structures and Algorithms in Python [Goodrich, Tamassia & Goldwasser 2013-03-18].pdf
 - Python/dive-into-python3.pdf
 - Python/Effective Python (2015).pdf
+- Python/Fundamentals of Python Data Structures.pdf
+- Python/Introduction to Machine Learning with Python.pdf
 - Python/Learn Python The Hard Way 3rd Edition V413HAV.pdf
+- Python/Python Cookbook_3rd.pdf
 - Python/Python for Data Analysis.pdf
+- Python/Python For Finance_2nd.pdf
 - Python/Python for Probability, Statistics, and Machine Learning - 2016.pdf
 - Python/python-crash-course.pdf
 - Python/Python数据分析及可视化实例目录.pdf
