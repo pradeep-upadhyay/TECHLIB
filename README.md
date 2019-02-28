@@ -2,6 +2,7 @@
 - Beginning Regular Expressions.pdf
 - cracking-coding-interview-6th-programming.pdf
 - Docker-Up and Running.pdf
+- elementary-algorithms.pdf
 - Elements of Programming Interviews in Java.pdf
 - HTML and CSS design and build websites.pdf
 - HTML5 and JavaScript Projects Build on your Basic Knowledge of HTML5 and JavaScript to Create Substantial HTML5 Applications, 2nd Edition.pdf
@@ -20,6 +21,7 @@
 - BigData/Hadoop-The.Definitive.Guide_4e_EN.pdf
 - BigData/Learning Spark Lightning-Fast Big Data Analysis Orielly Feb 2015.pdf
 - BigData/Practical Statistics for Data Scientists.pdf
+- BigData/Spark - The Definitive Guide - Big data processing made simple.pdf
 - BigData/Spark快速大数据分析.pdf
 - BigData/Spark最佳实践.pdf
 - ComputerArchitecture/Structure and Interpretion on Computer Programs.pdf
