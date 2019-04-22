@@ -39,6 +39,15 @@
 - Design/图解设计模式-结城浩.pdf
 - Design/微服务架构与实践.王磊.pdf
 - Design/微服务设计中文完整版.pdf
+- Design/SystemDesign/Chapter_1._Introducing_System_Design__News_Feed_System_v5.1.3.pdf
+- Design/SystemDesign/Chapter_2._Design_User_System_-_Database__Memcache_v5.1.pdf
+- Design/SystemDesign/Chapter_3._Consistent_Hashing__Design_Tiny_URL_v5.1.2.pdf
+- Design/SystemDesign/Chapter_4._Distributed_SystemGFS_20170402.pptx.pdf
+- Design/SystemDesign/Chapter_5._Crawler__Typeahead_v5.0_yBamkXj.pdf
+- Design/SystemDesign/Chapter_6._Mapreduce.pptx.pdf
+- Design/SystemDesign/Chapter_7._Location_Based_Service__Design_Uber_v5.1.pdf
+- Design/SystemDesign/Chapter_8._Bigtable_20170302.pptx.pdf
+- Design/SystemDesign/Chapter_9._Message_System__Rate_Limiter_v5.1.pdf
 - Go/Go in Action.pdf
 - Go/Go Web Programming.pdf
 - Go/Go语言编程.pdf
@@ -97,7 +106,7 @@
 - Machine Learning/Machine_Learning_in_Action.pdf
 - Machine Learning/vmls-julia-companion.pdf
 - Math/[Linear Algebra]Serge.Lang.pdf
-- Math/Engineering Mathematics, 8th Edition 9781138673595.pdf
+- Math/Engineering Mathematics, 8th Edition.pdf
 - Math/Linear Algebra Done Right.pdf
 - Math/Think Stats Probability.pdf
 - Math/程序员的数学/程序员的数学 2 概率统计.pdf
